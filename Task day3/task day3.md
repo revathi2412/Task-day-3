@@ -10,9 +10,9 @@
 >> Coding
 - ⚡Hackerrank (30 day-daily chanllenge)
 - ⚡skillrack
-- Leetcode(1 practice prblm)
+- ⚡Leetcode(1 practice prblm)
 >> Daily workout
 - ✅walking
 >> youtube videos
 - ⚡python day 3 || python warriors
-- ⚡How to change impossiple to possible
+- ⚡How to change impossible to possible
